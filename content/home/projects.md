@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 
@@ -42,4 +42,3 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-

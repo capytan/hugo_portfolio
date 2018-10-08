@@ -4,11 +4,11 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
+title = "LTなど"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 55
 
 # Number of talks to list.
 count = 10
@@ -21,4 +21,3 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-
